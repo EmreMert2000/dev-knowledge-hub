@@ -1,0 +1,15 @@
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/bin/Debug/net10.0/week1
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/bin/Debug/net10.0/week1.deps.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/bin/Debug/net10.0/week1.runtimeconfig.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/bin/Debug/net10.0/week1.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/bin/Debug/net10.0/week1.pdb
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.AssemblyInfoInputs.cache
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.AssemblyInfo.cs
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.csproj.CoreCompileInputs.cache
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.sourcelink.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/refint/week1.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.pdb
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/week1.genruntimeconfig.cache
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/week1/obj/Debug/net10.0/ref/week1.dll
