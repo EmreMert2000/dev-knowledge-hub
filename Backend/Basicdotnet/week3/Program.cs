@@ -1,2 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Week 3!");
+﻿using system;
+
+
+
+class Program
+{
+    static void Main(string[] args)
+    {
+      SampleMethod() ;
+    }   
+    
+
+    static void SampleMethod()
+    {
+        Console.WriteLine("This is a sample method.");
+    }
+
+}
