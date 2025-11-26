@@ -1,55 +1,95 @@
-Purpose of This Repository
-📌 Expand my technical knowledge across multiple tech stacks
-🧪 Experiment with architectures, design patterns, and best practices
-🔍 Strengthen my foundation in algorithms & data structures
+Dev Knowledge Hub
+
+A centralized personal learning space where I explore mobile development, backend, software architecture, data science, and algorithms — all in one organized, scalable, and continuously evolving repository.
+
+🎯 Purpose
+
+📌 Expand technical knowledge across multiple stacks
+
+🧪 Experiment with architectures, patterns, and best practices
+
+🔍 Strengthen fundamentals in algorithms & data structures
+
 🚀 Build small hands-on demos to reinforce concepts
-📚 Store personal notes, roadmaps, and study summaries
-🎯 Track my growth as a full-stack & mobile engineer
+
+📚 Store roadmaps, notes, and study summaries
+
+🎯 Track long-term growth as a full-stack & mobile engineer
+
 🛠 Tech Areas Covered
 📱 Mobile Development
-Swift / SwiftUI
-Flutter (Dart)
-React Native (TypeScript)
+Tech	Focus
+Swift / SwiftUI	Views, state management, async/await, concurrency
+Flutter (Dart)	Widgets, state management, Firebase, animations
+React Native (TypeScript)	Expo, Zustand, API integration, navigation
 🧱 Backend
-Java & Spring Boot
-Node.js
-REST API Design
-Basic Microservices Concepts
-📊 Data Science
-Python
+Tech	Focus
+Java & Spring Boot	REST APIs, JPA, layered architecture
+Node.js	Lightweight services, routing
+Microservices Basics	Modularization, service boundaries, event flow
+📊 Data Science (Python)
+
 NumPy / Pandas
+
 Data cleaning & visualization
-ML basics
+
+Intro to machine learning concepts
+
 🏗 Software Architecture
-MVVM, MVC, Clean Architecture
+
+MVVM, MVC
+
+Clean Architecture
+
 SOLID Principles
+
 Modularization
-Protocol-Oriented Architecture
+
+Protocol-Oriented Design
+
 State Management Patterns
+
 ⚙️ Algorithms & Data Structures
-Sorting, Searching
-Trees, Graphs
+
+Sorting & Searching
+
+Trees & Graphs
+
 Recursion
+
 Dynamic Programming
-Big-O Analysis
+
+Big-O Complexity Analysis
+
 📌 Why This Repository?
-Because learning never stops.
 
 I built this hub to:
 
-Keep everything in one place
-Stay organized while learning multiple technologies
-Track progress over months or years
-Create a reusable reference guide
-Build a portfolio of skills & mini projects
-📅 Long-Term Vision
-Add more languages & frameworks
-Expand algorithm library
-Document architecture case studies
-Upload more experimental projects
-Keep this repo as my personal engineering wiki
-🤝 Contributions
-This is my personal learning space,
-but feel free to open issues, discussions, or PRs if you'd like to share improvements.
+Keep everything organized in one place
 
-⭐ If you find this useful, don’t forget to star the repo!
+Learn multiple technologies without losing structure
+
+Track my progress over months and years
+
+Build a personal technical reference library
+
+Maintain small projects & code experiments as part of my portfolio
+
+📅 Long-Term Vision
+
+Add new languages & frameworks
+
+Expand the algorithm library
+
+Document architecture case studies
+
+Upload more experimental projects
+
+Shape this repo into a personal engineering wiki
+
+🤝 Contributions
+
+This is primarily my personal learning space.
+However, feel free to open issues, discussions, or PRs if you’d like to collaborate or suggest improvements.
+
+⭐ If you find this repository helpful, consider giving it a star!
