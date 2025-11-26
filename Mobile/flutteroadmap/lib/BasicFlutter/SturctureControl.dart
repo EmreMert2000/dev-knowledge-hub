@@ -1,7 +1,7 @@
 //State instate stful widgets
 // ignore_for_file: unused_local_variable
 import 'package:flutter/material.dart';
-import 'package:flutteroadmap/BasicFlutter/HomeScreen.dart';
+import 'package:flutteroadmap/BasicUI/HomeScreen.dart';
 
 void main() {
   runApp(const MyApp());

@@ -21,7 +21,7 @@ class ButtonWidget extends StatelessWidget {
       onPressed: onPressed,
       style: ElevatedButton.styleFrom(shadowColor: color),
       child: Text(
-        text,
+        "selam",
         style: TextStyle(fontSize: fontSize, color: Colors.white),
       ),
     );
