@@ -1,0 +1,7 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\bin\Debug\metod2.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\bin\Debug\metod2.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\bin\Debug\metod2.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\obj\Debug\metod2.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\obj\Debug\metod2.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\obj\Debug\metod2.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod2\obj\Debug\metod2.pdb

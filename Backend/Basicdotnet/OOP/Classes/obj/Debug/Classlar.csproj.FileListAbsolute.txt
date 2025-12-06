@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\bin\Debug\Classlar.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\bin\Debug\Classlar.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\bin\Debug\Classlar.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\obj\Debug\Classlar.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\obj\Debug\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\obj\Debug\Classlar.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\obj\Debug\Classlar.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Classlar\obj\Debug\Classlar.exe.config

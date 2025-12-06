@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\bin\Debug\Diziler.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\bin\Debug\Diziler.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\obj\Debug\Diziler.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\obj\Debug\Diziler.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\Diziler\obj\Debug\Diziler.exe.config

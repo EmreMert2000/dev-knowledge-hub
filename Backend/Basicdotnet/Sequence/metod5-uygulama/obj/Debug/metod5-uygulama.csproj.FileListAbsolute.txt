@@ -1,0 +1,7 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\bin\Debug\metod5-uygulama.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\bin\Debug\metod5-uygulama.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\bin\Debug\metod5-uygulama.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\obj\Debug\metod5-uygulama.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\obj\Debug\metod5-uygulama.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\obj\Debug\metod5-uygulama.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod5-uygulama\obj\Debug\metod5-uygulama.pdb

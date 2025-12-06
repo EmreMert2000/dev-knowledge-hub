@@ -1,0 +1,14 @@
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar.dll.config
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar.deps.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar.runtimeconfig.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/bin/Debug/net10.0/Abstract-classlar.pdb
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.csproj.CoreCompileInputs.cache
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.sourcelink.json
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/refint/Abstract-classlar.dll
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.pdb
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/Abstract-classlar.genruntimeconfig.cache
+/Users/emremert/Documents/GitHub/dev-knowledge-hub/Backend/Basicdotnet/OOP/Abstract-class/obj/Debug/net10.0/ref/Abstract-classlar.dll

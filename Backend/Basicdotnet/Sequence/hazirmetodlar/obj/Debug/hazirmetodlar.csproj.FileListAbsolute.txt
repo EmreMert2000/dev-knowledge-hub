@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\bin\Debug\hazirmetodlar.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\bin\Debug\hazirmetodlar.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\bin\Debug\hazirmetodlar.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\obj\Debug\hazirmetodlar.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\obj\Debug\hazirmetodlar.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\obj\Debug\hazirmetodlar.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\obj\Debug\hazirmetodlar.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\hazirmetodlar\obj\Debug\hazirmetodlar.exe.config

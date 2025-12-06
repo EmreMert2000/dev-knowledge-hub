@@ -1,0 +1,7 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\bin\Debug\metodlar7-Ozyinelemeli.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\bin\Debug\metodlar7-Ozyinelemeli.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\bin\Debug\metodlar7-Ozyinelemeli.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\obj\Debug\metodlar7-Ozyinelemeli.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\obj\Debug\metodlar7-Ozyinelemeli.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\obj\Debug\metodlar7-Ozyinelemeli.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metodlar7-Ozyinelemeli\obj\Debug\metodlar7-Ozyinelemeli.pdb

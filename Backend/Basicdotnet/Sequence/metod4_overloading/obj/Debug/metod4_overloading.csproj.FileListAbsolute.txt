@@ -1,0 +1,7 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\bin\Debug\metod4_overloading.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\bin\Debug\metod4_overloading.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\bin\Debug\metod4_overloading.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\obj\Debug\metod4_overloading.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\obj\Debug\metod4_overloading.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\obj\Debug\metod4_overloading.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod4_overloading\obj\Debug\metod4_overloading.pdb

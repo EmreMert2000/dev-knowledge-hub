@@ -1,0 +1,7 @@
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\bin\Debug\class-uygulama.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\bin\Debug\class-uygulama.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\bin\Debug\class-uygulama.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\obj\Debug\class-uygulama.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\obj\Debug\class-uygulama.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\obj\Debug\class-uygulama.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\class-uygulama\obj\Debug\class-uygulama.pdb

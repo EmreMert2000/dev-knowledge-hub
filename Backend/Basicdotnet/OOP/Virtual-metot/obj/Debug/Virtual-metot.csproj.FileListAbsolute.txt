@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\bin\Debug\Virtual-metot.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\bin\Debug\Virtual-metot.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\bin\Debug\Virtual-metot.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\obj\Debug\Virtual-metot.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\obj\Debug\Virtual-metot.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\obj\Debug\Virtual-metot.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\obj\Debug\Virtual-metot.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\Virtual-metot\obj\Debug\Virtual-metot.exe.config

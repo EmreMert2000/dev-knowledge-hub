@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\bin\Debug\metod3-ref-out.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\bin\Debug\metod3-ref-out.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\bin\Debug\metod3-ref-out.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\obj\Debug\metod3-ref-out.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\obj\Debug\metod3-ref-out.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\obj\Debug\metod3-ref-out.exe
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\obj\Debug\metod3-ref-out.pdb
+C:\Users\isPC\Desktop\Console2025-2026\Diziler-koleksiyonlar-metodlar\metod3-ref-out\obj\Debug\metod3-ref-out.exe.config

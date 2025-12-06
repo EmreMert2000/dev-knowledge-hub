@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\obj\Debug\kapsulleme.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kapsulleme\obj\Debug\kapsulleme.exe.config

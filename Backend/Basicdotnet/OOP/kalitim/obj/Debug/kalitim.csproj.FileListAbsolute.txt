@@ -1,0 +1,8 @@
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\bin\Debug\kalitim.exe.config
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\bin\Debug\kalitim.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\bin\Debug\kalitim.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\obj\Debug\kalitim.csproj.AssemblyReference.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\obj\Debug\kalitim.csproj.CoreCompileInputs.cache
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\obj\Debug\kalitim.exe
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\obj\Debug\kalitim.pdb
+C:\Users\isPC\Desktop\Console2025-2026\OOP\kalitim\obj\Debug\kalitim.exe.config
