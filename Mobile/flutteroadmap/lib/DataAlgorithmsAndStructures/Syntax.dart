@@ -9,3 +9,5 @@ class DartSyntax {
 
   // Add more syntax-related methods and structures here
 }
+
+var standartNumber = 4;
