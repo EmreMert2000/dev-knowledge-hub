@@ -10,6 +10,6 @@ data class User(
 
 fun main(){
     val user=User("Emre",25)
-    val user1=User.copy(age=26)
+   // val user1=User.copy(age=26)
     println(user)
 }
