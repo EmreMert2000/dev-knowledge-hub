@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Github\\dev-knowledge-hub\\Backend\\Basicdotnet\\AdvancedDotNet\\ClassLibrary1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8A8C5BA-A3DB-43FC-87ED-43BB9943EA51}|SQLConnections\\SQLConnections.csproj|d:\\github\\dev-knowledge-hub\\backend\\basicdotnet\\advanceddotnet\\classlibrary1\\sqlconnections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A8C5BA-A3DB-43FC-87ED-43BB9943EA51}|SQLConnections\\SQLConnections.csproj|solutionrelative:sqlconnections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0FBA3D62-9CB6-4DE9-841D-DC19CF13198C}|ClassLibrary1\\ClassLibrary1.csproj|d:\\github\\dev-knowledge-hub\\backend\\basicdotnet\\advanceddotnet\\classlibrary1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FBA3D62-9CB6-4DE9-841D-DC19CF13198C}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\dev-knowledge-hub\\Backend\\Basicdotnet\\AdvancedDotNet\\ClassLibrary1\\SQLConnections\\Program.cs",
+              "RelativeDocumentMoniker": "SQLConnections\\Program.cs",
+              "ToolTip": "D:\\Github\\dev-knowledge-hub\\Backend\\Basicdotnet\\AdvancedDotNet\\ClassLibrary1\\SQLConnections\\Program.cs",
+              "RelativeToolTip": "SQLConnections\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T16:31:13.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Github\\dev-knowledge-hub\\Backend\\Basicdotnet\\AdvancedDotNet\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
               "ToolTip": "D:\\Github\\dev-knowledge-hub\\Backend\\Basicdotnet\\AdvancedDotNet\\ClassLibrary1\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T13:48:50.551Z",
               "EditorCaption": ""

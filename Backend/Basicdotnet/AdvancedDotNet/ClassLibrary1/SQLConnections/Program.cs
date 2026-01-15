@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -14,7 +15,7 @@ namespace ClassLibrary1
         static void Main(string[] args)
         {
 
-            
+
 
             SqlConnection connection = new SqlConnection("Data Source = NIZAMYAPı;initial Catalog = devhub;integrated security = true");
             connection.Open();
@@ -40,11 +41,11 @@ namespace ClassLibrary1
 
 
         }
-        
 
 
 
-        
+
+
 
     }
 }

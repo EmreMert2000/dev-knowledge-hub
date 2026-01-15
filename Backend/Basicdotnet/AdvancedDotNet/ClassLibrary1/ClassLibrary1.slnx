@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="ClassLibrary1/ClassLibrary1.csproj" Id="0fba3d62-9cb6-4de9-841d-dc19cf13198c" />
+  <Project Path="devhub.EntitiyLayer/devhub.EntitiyLayer.csproj" Id="35563b48-98ce-49fc-bdd0-2375f629bea0" />
+  <Project Path="SQLConnections/SQLConnections.csproj" Id="e8a8c5ba-a3db-43fc-87ed-43bb9943ea51" />
 </Solution>
