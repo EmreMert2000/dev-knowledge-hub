@@ -56,3 +56,37 @@ print(myDog.humanAge())
 
 #Examples...
 
+
+#Polyphor
+class Banana():
+    
+    def __init__(self,name):
+        self.name = name
+        
+    def info(self):
+        return f"100 calories {self.name}"
+    
+class Apple():
+    
+    def __init__(self,name):
+        self.name = name
+        
+    def info(self):
+        return f"150 calories {self.name}" 
+
+
+
+#Try handlink error sections
+
+while True:
+    try:
+        myAge = int(input("enter age: "))
+        print(myAge * 2)
+        #break
+    except:
+        print("enter your age!!!")
+    else:
+        print("else executed")
+        break
+    finally:
+        print("finally")
