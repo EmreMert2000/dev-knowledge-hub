@@ -1,0 +1,7 @@
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\bin\Debug\LearningBackend.exe.config
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\bin\Debug\LearningBackend.exe
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\bin\Debug\LearningBackend.pdb
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\obj\Debug\LearningBackend.csproj.AssemblyReference.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\obj\Debug\LearningBackend.csproj.CoreCompileInputs.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\obj\Debug\LearningBackend.exe
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\LearningBackend\obj\Debug\LearningBackend.pdb

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Backend301/Backend301.csproj" />
+  <Project Path="LearningBackend/LearningBackend.csproj" />
+</Solution>
