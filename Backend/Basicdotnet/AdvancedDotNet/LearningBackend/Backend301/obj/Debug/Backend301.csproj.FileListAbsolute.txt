@@ -1,0 +1,2 @@
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\Backend301\obj\Debug\Backend301.csproj.AssemblyReference.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\Backend301\obj\Debug\Backend301.csproj.CoreCompileInputs.cache

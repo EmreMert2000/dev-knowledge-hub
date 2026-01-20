@@ -1,0 +1,9 @@
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\Github\dev-knowledge-hub\Backend\Basicdotnet\AdvancedDotNet\LearningBackend\PresentationLayer\obj\Debug\PresentationLayer.pdb

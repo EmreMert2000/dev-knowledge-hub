@@ -1,4 +1,7 @@
 <Solution>
-  <Project Path="Backend301/Backend301.csproj" />
-  <Project Path="LearningBackend/LearningBackend.csproj" />
+  <Project Path="Backend301/Backend301.csproj" Id="97c7967e-1879-4ec1-80ef-28237564246b" />
+  <Project Path="BusinessLayer/BusinessLayer.csproj" Id="140fe75d-ab89-4a02-abca-a1f93cce8430" />
+  <Project Path="DataAccesesLayer/DataAccesesLayer.csproj" Id="3c5a2843-4d8a-45a7-8be4-20cfcded89c7" />
+  <Project Path="LearningBackend/LearningBackend.csproj" Id="9dbdd0cf-a30d-43f8-b69c-5f3682a2c9d5" />
+  <Project Path="PresentationLayer/PresentationLayer.csproj" Id="f5ae2d0d-d0df-4ea1-9606-aee377c4f87f" />
 </Solution>
