@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccesesLayer.Context
 {
-    public class KampContext: DbContext
+    public class KampContext : DbContext
     {
         public DbSet<Category> Categories { get; set; }
 
