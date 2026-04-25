@@ -45,6 +45,8 @@ A personal repository where I explore **mobile development, backend systems, sof
 
 Create a **centralized engineering knowledge hub** that documents learning progress, experiments, and technical explorations.
 
+Football is the biggest data of the future.(FutVeri.com) 02.06.2026
+
 ## 🤝 Contributions
 
 This repository is mainly a personal learning space, but suggestions and discussions are welcome.
